@@ -1,0 +1,1 @@
+EscDocumentação técnica projeto GYNLOG
