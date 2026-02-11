@@ -30,3 +30,13 @@ A documentação completa do projeto, incluindo os diagramas de processos e requ
 * **Cassiano Abreu** — [Nomscodes](https://github.com/Nomscodes)
 * **Gabriel Naoki** — [GabrielNaokiUT](https://github.com/GabrielNaokiUT)
 * **Wyllian Mariano** — [wyllianmn](https://github.com/wyllianmn)
+
+## 🚀 Como Executar o Projeto
+
+1. Certifique-se de ter o **JDK 17+** e o **Maven** instalados.
+2. Clone o repositório:
+   `git clone https://github.com/Nomscodes/projeto-integrador-gynlog-java.git`
+3. Navegue até a pasta e compile o projeto:
+   `mvn clean install`
+4. Execute a aplicação:
+   `mvn exec:java`
