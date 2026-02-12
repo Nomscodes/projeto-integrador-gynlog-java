@@ -9,7 +9,7 @@ Este projeto foi desenvolvido como **Projeto Integrador** no curso de Análise e
 - **Governança de Redes:** Planejamento de infraestrutura com Active Directory e GPOs via Windows Server.
 
 ## 🛠️ Tecnologias Utilizadas
-- [cite_start]**Linguagem:** Java (JDK 17+).
+- **Linguagem:** Java (JDK 17+).
 - **IDE:** NetBeans.
 - **Versionamento:** GitHub.
 - **Comunicação e Agilidade:** Slack e reuniões de alinhamento.
